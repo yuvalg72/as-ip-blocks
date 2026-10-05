@@ -1,3 +1,15 @@
+## Fork provenance
+
+This repository is a fork of [ipverse/as-ip-blocks](https://github.com/ipverse/as-ip-blocks). Original authorship belongs to the upstream project and its contributors; this repository does not claim first-party authorship of inherited work.
+
+- **Local purpose:** A snapshot of ipverse's autonomous-system prefix dataset for reference.
+- **Local changes:** Before this notice, there were no local commits beyond upstream. This documentation change does not refresh any ASN data.
+- **Sync model:** At the 2026-10-05 review, GitHub compared upstream `master` with this fork's `master`: **0 commits ahead / 14 commits behind**, before this notice. This fork is maintained as a reference snapshot; upstream updates require explicit review and are not assumed to be synchronized automatically.
+- **License and attribution:** The inherited [CC0 1.0 Universal dedication](LICENSE) is retained.
+- **Links and releases:** The daily-update description, Lens service, curl commands, feedback and release links below refer to ipverse's upstream dataset. This fork is a snapshot and does not promise daily updates.
+
+---
+
 # as-ip-blocks (formerly asn-ip)
 
 ## 🔍 Try it online
